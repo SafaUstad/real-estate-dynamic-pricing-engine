@@ -20,10 +20,10 @@ Developed a dynamic valuation engine to estimate property prices based on featur
 6. **Model Training & Evaluation:** Training a Random Forest Regressor and evaluating performance using **R² Score** and **RMSE**.
 
 ## 📈 Model Performance
-* **Validation R² Score:** ~0.81
-* **Validation RMSE:** ~$50,210
-* **Test R² Score:** ~0.82
-* **Test RMSE:** ~$49,832
+* **Validation R² Score:** 0.7112
+* **Validation RMSE:** $57,799.02
+* **Test R² Score:** 0.6926
+* **Test RMSE:** 0.6926
 
 ## 📂 Repository Structure
 ```text
